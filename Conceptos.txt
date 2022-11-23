@@ -1,0 +1,5 @@
+Variables: Son elementos donde se almacenan valores que queramos definir, como su nombre lo indica pueden cambiar de valor en cualquier comento que queramos.
+Strings: Son cadenas de texto, se componende caracteres ya sea numeros, letras, caracteres especiales, y puede ser una palabra o un enunciado o texto.
+Funciones: Es un bloque de codigo en el que especificamos que se haga algo detro del bloque de esta funcion. Puede o no retornarmos algun valor con la sentencia return, la cual a su vez servira para parar la ejecicion del programa en donde se encuentre. Asi mismo la funcion puede recibir argumentos los cuales son valores que de proporcinamos para que los use al ejecutar cierta operacion dentro de la funcion.
+Declaraciones if: Son sentencias condicionales que le indican al programa que si se cunple cierta condicion se ejecute el bloque de codigo dentro de dicha sentencia.
+Valores booleanos: Se basan en la algebra de boole y son un tipo de datos que solo cuentan con dos valores True verdadero y False falso.
