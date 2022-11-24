@@ -1,0 +1,4 @@
+for: Se refiere a un bucle esta instruccion sirve para repetir n veces algun cicdice y a un a condicion, si esa condicion se cumple se ejecutara el codigo dentro del ciclo for, si no se cumple terminara el ciclo. El indice se ira incrementando de acuerdo a lo que hayamos establecido.
+&&: Es un operador de comparacion, en español y, este compara dos sentencias y si las dos son verdaderas devuelve true de lo contrario si alguna o las 2 son falsas devolvera false.
+||: Es el operador de comparacion or o en español o, este devuelve true siempre y cuando cualquier sentencia a comparar sea verdadero. Si las dos sentencias son falsas devolvera false.
+!: Es ek operador de negacion NOT el cual devuelve lo contrario a lo que hayamos ingresado. Si enviamos true devolvera false y si por el contrario enviamos false devolvera true.
