@@ -1,0 +1,1 @@
+Array: Es un arreglo y consiste en una lista de elementos que son guardados en memoria y cada uno contiene un indice por medio del cual podemos acceder al dato que nos interese. Cabe destacar que el indice de un arreglo siempre comienza con el elemento 0.
