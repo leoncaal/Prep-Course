@@ -1,0 +1,2 @@
+Prototype: Se refiere a que toda clase tiene metodos en prototype los cuales pueden ser utilizados en cualquier momlas clases dan acceso a los objetos a esos metodos y si no tienen algun metodo definido se buscara en prototype.
+Constructors: Se utilizan para crear una clase la cual es como una platilla que contiene las caracteristicas de dicla clase, el metodo constructor lo que gace es crear esa clase para que despues se puedan crear objetos a partir de esta.
