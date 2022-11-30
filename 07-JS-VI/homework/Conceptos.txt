@@ -1,0 +1,1 @@
+Funciones Callback: Son funciones que se invocan dentro de otra funcion, es decir si declaramos una funcion esta puede ser invocada dentro de los parametros de otra funcion y devolver el resultado de dicha funcion. Por convencion se declaran las variables callback con el identificador cb para un mejor entendimiento entre programadores.
