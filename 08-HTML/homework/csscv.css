@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: 200.px;
+}
+.box{
+    display: flex;
+    justify-content: right;
+}
+section{
+    display: flex;
+    justify-content: right;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+li{
+    font-size: 20px;
+}
